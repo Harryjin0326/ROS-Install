@@ -1,4 +1,5 @@
 # ROS Melodic Install
+### Official website: http://wiki.ros.org/melodic/Installation/Ubuntu
 ### This is about ROS for Windows and Ubuntu(install tutorials and problems solution)
 
 Read this in other languages: [English](https://github.com/Harryjin0326/ROS-Install/blob/master/README.md), [简体中文](https://github.com/Harryjin0326/ROS-Install/blob/master/README-zh.md)
@@ -26,8 +27,7 @@ First, make sure your Debian package index is up-to-date:
 ```java
 sudo apt-get update
 ```
-There are many different libraries and tools in ROS. We provided four default configurations to get you started. You can also install ROS packages individually.
-#### Desktop-Full(Recommended): ROS, rqt, rviz, robot-generic libraries, 2D/3D simulators and 2D/3D perception
+#### Desktop-Full: ROS, rqt, rviz, robot-generic libraries, 2D/3D simulators and 2D/3D perception
 ```java 
 sudo apt install ros-melodic-desktop-full
 ```
