@@ -31,3 +31,13 @@ sudo apt-get update
 ```java 
 sudo apt install ros-melodic-desktop-full
 ```
+### 1.5 Initialize rosdep
+Before you can use many ROS tools, you will need to initialize rosdep. rosdep enables you to easily install system dependencies for source you want to compile and is required to run some core components in ROS. If you have not yet installed rosdep, do so as follows.
+```java
+sudo apt install python-rosdep
+```
+With the following, you can initialize rosdep.
+```java
+sudo rosdep init
+rosdep update
+```
