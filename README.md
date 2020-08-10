@@ -1,12 +1,12 @@
 # ROS Melodic Install
-### Official website: http://wiki.ros.org/melodic/Installation/Ubuntu
-### This is about ROS for Windows and Ubuntu(install tutorials and problems solution)
 
+### This is about ROS for Windows and Ubuntu(install tutorials and problems solution)
 Read this in other languages: [English](https://github.com/Harryjin0326/ROS-Install/blob/master/README.md), [简体中文](https://github.com/Harryjin0326/ROS-Install/blob/master/README-zh.md)
 
 #### Table of contents
 
 ## 1.Ubuntu install of ROS Melodic
+### Official website: http://wiki.ros.org/melodic/Installation/Ubuntu
 ### 1.1 Configure your Ubuntu repositories
 Configure your Ubuntu repositories to allow "restricted," "universe," and "multiverse."
 ### 1.2 Setup your sources.list
